@@ -142,7 +142,7 @@ SystemMonitor/
 
 ## Author
 
-**Sudharsan V**
+**SUDHARSAN V**
 B.E. Computer Science and Engineering (2023–2027)
 V.S.B. College of Engineering Technical Campus
 
