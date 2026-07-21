@@ -1,6 +1,6 @@
 # System Monitor Dashboard
 
-A real-time desktop application built in Java that monitors all PC health metrics in a single unified dark-themed window — updating every 200ms.
+A real-time desktop application built in Java that monitors all PC health metrics in a single unified dark-themed window — updating every 200ms....
 
 ![Dashboard Screenshot](screenshot.png)
 ![Dashboard Screenshot](screenshot1.png)
