@@ -10,7 +10,7 @@
 
 **2. Volume always showing "--" (same Add-Type crash)**
 - Root cause: `Add-Type -Name 'WV'` for `waveOutGetVolume` crashed on re-run same as above.
-- Fix: Same `PSTypeName` guard pattern applied to `WinVol` type.
+- Fix: Same `PSTypeName` guard pattern applied to `WinVol` type .
 
 **3. Top CPU showing error string instead of app names**
 - Root cause: `Join-String` cmdlet does not exist in PowerShell 5.1 (Windows default). It was introduced in PS 7.
