@@ -1,0 +1,36 @@
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# JAR files (built artifact — not source)
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+.settings/
+.classpath
+.project
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Environment / secrets
+*.env
+.env
+
+# Maven wrapper (optional — remove if you add mvnw)
+.mvn/
+
+# Test output
+surefire-reports/
