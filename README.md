@@ -52,7 +52,7 @@ A real-time desktop application built in Java that monitors all PC health metric
 
 **Key design:** Background threads fetch slow data (PowerShell, APIs), store in atomic cache. UI reads from cache every 200ms — never waits for PowerShell, never freezes.
 
----
+----
 
 ## Tech Stack
 
